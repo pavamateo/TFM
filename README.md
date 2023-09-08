@@ -31,6 +31,3 @@ To replicate the analyses or use the scripts:
 
 While this repository primarily serves as an archive for my TFM, feedback, questions, and suggestions are always welcome. Feel free to open an issue or pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
