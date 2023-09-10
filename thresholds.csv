@@ -1,0 +1,15 @@
+Condition	Call	Threshold_from	Threshold_to
+Low TF	AMP	0.8	Inf
+Low TF	GAIN	0.25	0.8
+Low TF	NEUTRAL	-0.25	0.25
+Low TF	LOSS	-0.7	-0.25
+Low TF	DEEPDEL	-Inf	-0.7
+High/Normal TF ≤ 0.3	AMP	0.7	Inf
+High/Normal TF ≤ 0.3	GAIN	0.2	0.7
+High/Normal TF ≤ 0.3	NEUTRAL	-0.2	0.2
+High/Normal TF ≤ 0.3	LOSS	-0.58	-0.2
+High/Normal TF ≤ 0.3	DEEPDEL	-Inf	-0.58
+Gene in AR, KDM6A	AMP	1.6	Inf
+Gene in AR, KDM6A	GAIN	0.6	1.6
+Gene in AR, KDM6A	NEUTRAL	-1.3	0.6
+Gene in AR, KDM6A	DEEPDEL	-Inf	-1.3
