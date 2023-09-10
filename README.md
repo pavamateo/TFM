@@ -8,24 +8,15 @@ The primary aim of this repository is to provide a comprehensive view of the met
 
 ## Contents
 
-1. **Supplementary Information**: Dive deeper into the data with additional tables, figures, and explanations that couldn't be included in the main paper due to space constraints.
+1. **Supplementary Information**: Dive deeper into the data with additional tables, figures, and explanations that couldn't be included in the main paper due to space constraints, file is Supplementary_info.pdf
   
 2. **Code & Scripts**: A collection of all the scripts used for data analysis, data manipulation, and figure generation. This includes:
-    - Data preprocessing scripts
-    - Analysis pipelines
-    - Visualization tools
+    - Analysis for ASCAT, DNAcopy
+    - Analysis for ichor_qdnaseq
+    - Visualization Callings
 
 3. **Data**: Due to data privacy regulations, raw data may not be hosted here. However, where permissible, processed datasets or example datasets have been included for illustrative purposes.
-
-4. **Documentation**: Detailed documentation on how to use the scripts, their dependencies, and any other relevant information.
-
-## Usage
-
-To replicate the analyses or use the scripts:
-
-1. Clone this repository to your local machine.
-2. Navigate to the respective directories.
-3. Follow the instructions in the documentation to set up the environment, install dependencies, and run the scripts.
+   Can be found in the .csv formats.
 
 ## Contribution
 
